@@ -1,0 +1,13 @@
+.content_text {
+  margin-top: 20px !important;
+}
+
+Card {
+  width: 500;
+}
+
+.btn {
+  margin-top: 2rem !important;
+  background-color: chocolate !important;
+  margin-right: 20px !important;
+}
